@@ -35,7 +35,7 @@ Modal hasil generate AI
 3. Aktifkan plugin melalui menu Plugins
 4. Dapatkan API key dari [Google AI Studio](https://makersuite.google.com/app/apikey)
 6. Masukkan API key di file utama plugin
-(Untuk masa interview di TriaStudio saya akan menggunakan API, untuk memudahkan testing untuk tim interviewer)
+> Catatan: Untuk keperluan wawancara di Triatra Studio, API key milik saya akan digunakan untuk memudahkan pengujian.
 8. Gunakan shortcode `[business_description_form]` di halaman atau post yang diinginkan
 
 ## 🔧 Konfigurasi
