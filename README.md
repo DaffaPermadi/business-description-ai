@@ -5,7 +5,7 @@ Plugin WordPress sederhana untuk menghasilkan deskripsi bisnis profesional mengg
 📸 Preview
 Show Image
 Form input untuk generate deskripsi bisnis
-![Halaman Dashboard Wordpress](screenshot/Halaman-Dashboard-Wordpress.png)
+![Halaman Dashboard Wordpress](Screenshot/Halaman-Dashboard-Wordpress.jpg)
 Modal hasil generate AI
 Show Image
 Tampilan responsive pada mobile
