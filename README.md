@@ -87,7 +87,7 @@ Kontribusi sangat diterima! Untuk berkontribusi:
 
 ## 📄 Lisensi
 
-Plugin ini dilisensikan di bawah [GPL v2 atau yang lebih baru](https://www.gnu.org/licenses/gpl-2.0.html)
+Plugin ini dilisensikan di bawah [GPL v3 atau yang lebih baru](https://www.gnu.org/licenses/gpl-3.0.html)
 
 ## ⭐ Penghargaan
 
@@ -98,5 +98,4 @@ Plugin ini dilisensikan di bawah [GPL v2 atau yang lebih baru](https://www.gnu.o
 
 Jika Anda menemukan masalah atau memiliki saran, silakan buat issue di repository ini.
 
----
-Dibuat dengan ❤️ oleh [Daffa Permadi]
+Daffa Permadi
