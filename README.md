@@ -1,10 +1,11 @@
 # AI Business Description Generator
 
 Plugin WordPress sederhana untuk menghasilkan deskripsi bisnis profesional menggunakan Google Gemini AI.
+
 📸 Preview
 Show Image
 Form input untuk generate deskripsi bisnis
-Show Image
+![Halaman Dashboard Wordpress](screenshot/Halaman-Dashboard-Wordpress.png)
 Modal hasil generate AI
 Show Image
 Tampilan responsive pada mobile
