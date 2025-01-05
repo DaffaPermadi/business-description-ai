@@ -3,12 +3,14 @@
 Plugin WordPress sederhana untuk menghasilkan deskripsi bisnis profesional menggunakan Google Gemini AI.
 
 📸 Preview
-Show Image
-Form input untuk generate deskripsi bisnis
 ![Halaman Dashboard Wordpress](Screenshot/Halaman-Dashboard-Wordpress.jpg)
+Plugin setelah di Install
+
+![Form Input for Generate](Screenshot/Tampilan-Form.jpg)
+Form input untuk generate deskripsi bisnis
+
+![Modal Hasil Generate AI](Screenshot/Hasil-Generate-AI.jpg)
 Modal hasil generate AI
-Show Image
-Tampilan responsive pada mobile
 
 ## 🚀 Fitur
 
