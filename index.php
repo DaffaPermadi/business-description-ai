@@ -83,7 +83,7 @@ function abdg_generate_description() {
     $brief_description = sanitize_textarea_field($_POST['brief_description']);
     
     // Gemini API configuration
-    $api_key = 'AIzaSyCKADEl_BPkmt-EdKtlWY4IkhfNFeF7SaM'; // Ganti dengan API key Anda
+    $api_key = 'YOUR_API_KEY'; // Ganti dengan API key Anda
     $api_url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent';
     
     // Buat prompt yang spesifik dengan mempertimbangkan brief description jika ada
